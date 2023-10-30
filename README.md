@@ -76,11 +76,9 @@ Ce projet est une application web qui permet de gérer les informations des étu
 
 # Fonctionnalités
 
-# Affichage des étudiants, machines, marque, machines par marque, machines par référence: La page principale affiche une liste avec les informations appropriées. 
-
-# Modification des étudiants, machines et marque.
-
-# Suppression des étudiants, machines et marque.
+Affichage des étudiants, machines, marque, machines par marque, machines par référence: La page principale affiche une liste avec les informations appropriées. 
+Modification des étudiants, machines et marque.
+Suppression des étudiants, machines et marque.
 
 # Technologies Utilisées:
 
