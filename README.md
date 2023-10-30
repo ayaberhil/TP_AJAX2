@@ -57,6 +57,8 @@ Ce projet est une application web qui permet de gérer les informations des étu
 
 
 # Suppression d'une machine
+![2023-10-30 (26)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/ab29340c-94cd-4b4d-a8a8-a21efa6fbde4)
+![2023-10-30 (27)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/edbeeeae-2374-4552-8214-d22632b2ade5)
 
 
 # Filtrage Machines par marque
