@@ -1,0 +1,25 @@
+SMAP
+machineByMarqueForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 machineByMarqueForm.jsp
+machineByMarqueForm.jsp
++ 1 header.jsp
+template/header.jsp
++ 2 menu.jsp
+template/menu.jsp
+*L
+1,24:57
+1#1,8:81
+24#0,2:88
+5#2,14:90
+25#0,13:104
+38,3:118
+40:121
+41:122,6
+42:128,3
+43,9:131
+52,2:141
+53,29:143
+*E

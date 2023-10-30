@@ -1,0 +1,44 @@
+.tab {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial;
+    width: 50%;
+}
+
+.tab td, .tab th {
+    border: 1px solid black;
+    padding: 10px 15px;
+    font-family: Arial;
+}
+
+.tab tr:nth-child(even) {
+    background-color: #ECECEC; /* Even rows color, use a specific color code */
+}
+
+.tab tr:nth-child(odd) {
+    background-color: #F0F0FF; /* Odd rows color, use a specific color code */
+}
+
+.bnupdate {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.bndelete {
+    background-color: #FF6B6B; /* Coral */
+    border: none;
+    color: white;
+    font-family: Arial;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
