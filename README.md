@@ -11,7 +11,8 @@ Ce projet est une application web qui permet de gérer les informations des étu
 # Modification d'un étudiant
 ![2023-10-30 (2)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/5c75a4a5-d5ca-49e4-bfa7-4f4589b28dc8)
 
-![2023-10-30 (23)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/a1885d1f-36ce-47ab-a1bb-fc4cac978795)
+![2023-10-30 (24)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/f59ccbdd-58e6-43ca-b399-15369b98fa67)
+
 
 ![2023-10-30 (3)](https://github.com/ayaberhil/TP_AJAX2/assets/147451152/7803d9d9-bd0c-4a89-83e0-55641e08517d)
 
